@@ -10,6 +10,9 @@ New Atlantis Collective is a groundbreaking AI-powered school that unlocks human
 - Provide free access to individuals worldwide by fostering a unique reciprocity model.
 - Enable communities to thrive through AI education, supported by everyday actions at local businesses.
 
+## 💡 The Reciprocity Model
+Education should be accessible to all. Instead of traditional tuition fees, we operate on a simple, powerful principle: **reciprocity.** In exchange for benefiting from the New Atlantis Collective, we invite learners to support their local communities by prepaying for goods and services at nearby businesses.
+
 ## 💡 **How It Works**
 - **Learn Through Prompts:** Engage with AI-driven learning experiences using our meticulously crafted prompts across domains like creativity, self-reflection, emotional intelligence, and problem-solving.
 - **Reciprocity Model:** Instead of traditional tuition, learners support the Collective by pre-paying small amounts at local businesses — creating value in their own communities.
@@ -30,10 +33,19 @@ Until we formally roll out our app in the next phase, any **relevant offline loc
 2. Display it at your business to show your support for the New Atlantis Collective.
 3. Encourage customers to participate in our reciprocal learning model.
 
+## 🛠️ Partner with Us
+Local businesses can join us for free! Until our formal app rollout, businesses can download our partner badge and begin participating immediately.
+
+- **Accept Prepayments:** Businesses are encouraged to ask for small or big prepaid or advance amounts from customers for future purchases.
+- **Gain Visibility:** Become part of a global network of community-conscious partners.
+- **Support Learning:** Contribute to the growth of a powerful, accessible educational model.
+
 ## 📅 **What's Next?**
 - Phase 1: **Global Partner Expansion** — We invite local businesses to join for free.
 - Phase 2: **App Launch** — Seamlessly integrate AI-powered learning and community participation.
 - Phase 3: **Scaling to 10,000+ Prompts** — With AI assistance, grow our prompt library and enhance educational experiences.
+
+### We're working on an app that will streamline the reciprocity process, allowing learners to track their contributions and businesses to manage prepayments more efficiently. Stay tuned!
 
 ## 💬 **Stay Connected**
 Join us in reimagining the future of learning. Follow along, contribute, or partner with us to be part of this extraordinary movement.
