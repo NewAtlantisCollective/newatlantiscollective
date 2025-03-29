@@ -42,16 +42,16 @@ Local businesses can join us for free! Until our formal app rollout, businesses 
 
 ## 📅 **What's Next?**
 - Phase 1: **Global Partner Expansion** — We invite local businesses to join for free.
-- Phase 2: **App Launch** — Seamlessly integrate AI-powered learning and community participation.
-- Phase 3: **Scaling to 10,000+ Prompts** — With AI assistance, grow our prompt library and enhance educational experiences.
+- Phase 2: **Scaling to 10,000+ Prompts** — With AI assistance, grow our prompt library and enhance educational experiences.
+- Phase 3: **App Launch** — Seamlessly integrate AI-powered learning and community participation.
 
-### We're working on an app that will streamline the reciprocity process, allowing learners to track their contributions and businesses to manage prepayments more efficiently. Stay tuned!
+### We're working on an app that will streamline the reciprocity process, allowing learners to learn AI from us and track their contributions, and businesses to manage prepayments more efficiently. Stay tuned!
 
 ## 💬 **Stay Connected**
 Join us in reimagining the future of learning. Follow along, contribute, or partner with us to be part of this extraordinary movement.
 
-- **Website:** Coming soon
+- **Website:** newatlantiscollective.com
 - **Social Media:** Stay tuned for updates
-- **Contact:** [Your Contact Email or Form]
+- **Contact:** [ahuja.keyur@outlook.com]
 
 **New Atlantis Collective** — Empowering Humanity Through AI and Community.
