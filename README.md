@@ -16,7 +16,7 @@ Education should be accessible to all. Instead of traditional tuition fees, we o
 ## 💡 **How It Works**
 - **Learn Through Prompts:** Engage with AI-driven learning experiences using our meticulously crafted prompts across domains like creativity, self-reflection, emotional intelligence, and problem-solving.
 - **Reciprocity Model:** Instead of traditional tuition, learners support the Collective by pre-paying small amounts at local businesses — creating value in their own communities.
-- **Exponential Growth:** Our 250-300 foundational prompts, enriched by AI creativity, will scale to 10,000 and beyond, making the platform infinitely expandable.
+- **Exponential Growth:** Our foundational prompts, enriched by AI creativity, will scale to 10,000 and beyond, making the platform infinitely expandable.
 
 ## 🏪 **Become a Partner Business**
 Until we formally roll out our app in the next phase, any **relevant offline local business** can join us as a partner — **for free**.
